@@ -55,3 +55,4 @@ pila.eliminar()
 
 # i. Insertar (PILA, R)
 pila.insertar("R")
+print(f"La pila tiene {pila.tope} elementos.")
